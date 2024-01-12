@@ -5,3 +5,6 @@ calculo = number - 1
 Calculo1 = number + 1
 
 print("Então seu antessor e {1}, e o sucessor e {0}".format(calculo,Calculo1))
+
+
+
