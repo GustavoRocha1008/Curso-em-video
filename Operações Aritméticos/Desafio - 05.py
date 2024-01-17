@@ -1,5 +1,4 @@
 #Tabuada 
-
 number=int(input("Digite um numero para verificar a tabuada: "))
 print('-'* 12)
 print(" {} x {} = {}". format (number,1, number*1))
